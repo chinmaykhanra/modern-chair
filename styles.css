@@ -141,6 +141,7 @@ label.color-6{
 }
 .img-wrap.chair-5{
     background-image: url("./images/chair5.png");
+    
 }
 .for-color-5:checked~.img-wrap.chair-5{
     opacity:1;
